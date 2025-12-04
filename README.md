@@ -7,3 +7,5 @@
 
 I am an incoming PhD in Statistics at Memorial University of Newfoundland. I am expect to obtain a Master of Science in Statistics at Memorial University of Newfoundland. I obtained a Bachelor of Mathematics in Statistics at University of Waterloo.
 
+### Navigate
+[**Education**](education.md) • [**Research**](research.md) • [**Teaching**](teaching.md)
